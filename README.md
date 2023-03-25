@@ -1,7 +1,7 @@
 # openmusic-queue-consumer
 [![Generic badge](https://img.shields.io/badge/npm-v14.16.1-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/node-6.14.12-green.svg)](https://shields.io/)
 
-Program that consumes playlist export messages produced by OpenMusic API
+Program that consumes playlist export messages produced by [OpenMusic API](https://github.com/androsyahreza/openmusic-api)
 
 
 ## Table of contents
